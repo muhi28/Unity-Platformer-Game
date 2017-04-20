@@ -10,6 +10,7 @@ TagManager:
   - Exit
   - PLAYER
   - FALLDETECTOR
+  - Enemies
   layers:
   - Default
   - TransparentFX
@@ -21,7 +22,7 @@ TagManager:
   - 
   - Background
   - SKY
-  - 
+  - Player
   - 
   - 
   - 
