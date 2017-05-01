@@ -11,6 +11,7 @@ TagManager:
   - PLAYER
   - FALLDETECTOR
   - Enemies
+  - MovingPlatform
   layers:
   - Default
   - TransparentFX
@@ -45,6 +46,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2481391333
+    locked: 0
+  - name: Background_front
+    uniqueID: 405183809
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Coins
+    uniqueID: 3513842179
+    locked: 0
+  - name: Enemies
+    uniqueID: 4225276089
+    locked: 0
+  - name: Player
+    uniqueID: 1024742581
     locked: 0

@@ -6,8 +6,7 @@ public var y;
 
 public var currentPoint : Transform;
 public var points : Transform[];
-public  var pointSelection = 0;;
-public var flipScale : Vector2;
+public  var pointSelection = 0;
 
 
 function Start () {
